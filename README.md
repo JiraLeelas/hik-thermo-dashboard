@@ -12,4 +12,4 @@ The example data format that is supported by this visualization system is provid
 - Programming Language: Python
 - Framework: [Dash](https://dash.plotly.com/), Bootstrap
 - Libraries: Pandas, NumPy, SciPy, Plotly, Dash Bootstrap Components
-- Deployment: [Render](https://render.com/)
+- Web Deployment: [Render](https://render.com/)
