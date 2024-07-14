@@ -1,0 +1,31 @@
+/* This CSS file is for app.py*/
+.upload-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.upload-button {
+    width: 100px;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.upload-status-text {
+    margin-left: 10px;
+}
+
+.plot-area {
+    flex: 1;
+    height: 605px;
+}
+
+.custom-plot-area {
+    flex: 1;
+    height: 605px;
+}
+
+.download-btn {
+    font-weight: bold;
+}
+
