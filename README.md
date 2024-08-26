@@ -1,5 +1,5 @@
 # hik-thermo-dashboard
-A webbased dashboard application to visualize and analyze thermal information from a 96-well plates data format.
+A web-based dashboard application to visualize and analyze thermal information from a 96-well plates data format.
 
 ## Project Motivation
 This project aims to demonstrate a proof of concept data acquisition ecosystem for a high-throughput and low-cost thermal gradient system based on 96-well plate architecture. This system can be applied for a wide range of applications in studying the thermochemical (e.g., thermal decomposition) and thermophysical properties of materials. The thermal gradient heating and cooling system is developed by [Dr Richard Thompson](https://www.durham.ac.uk/staff/r-l-thompson/) research unit at the Durham University, United Kingdom. The proposed data acquisition ecosystem consist of two major parts: data extraction program and a webbased dashboard system.
