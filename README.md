@@ -11,7 +11,10 @@ This github repositatry is the second part of the purposed ecosystem that is use
 The example data format that is supported by this visualization system is provided in [sample-data folder](/sample-data/).
 
 ## Development Tools
-- Programming Language: Python
+- Programming Language: Python (ver 3.11.9)
 - Framework: [Dash](https://dash.plotly.com/), Bootstrap
 - Libraries: Pandas, NumPy, SciPy, Plotly, Dash Bootstrap Components
+
+## Deployment
 - Web Deployment: [Render](https://render.com/)
+- Docker Container: `docker build . -t app && docker run -p 8050:8050 app` that will be available at `http://localhost:8050`.
